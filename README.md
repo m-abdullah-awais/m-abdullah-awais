@@ -8,21 +8,28 @@
 </p>
 
 # 💫 About Me:
-🔭 Currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations.<br><br>
-👯 Open to collaborating on front-end and backend projects.<br><br>
-🌱 Refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br><br>
-💬 Happy to help with full-stack development queries. Reach out at *abdullahawais1111@gmail.com*<br><br>
-⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
+🔭 Full-Stack Developer
+I specialize in developing dynamic and responsive web applications with a strong emphasis on user experience, performance optimization, and captivating animations. My approach is centered on delivering clean, efficient code while ensuring high-quality, scalable applications.
+
+👯 Collaboration
+I am open to collaborating on both front-end and back-end projects, leveraging my expertise in modern technologies to create seamless, innovative solutions that align with business goals.
+
+🌱 Continuous Growth
+Constantly refining my skills, I specialize in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations to create engaging, interactive experiences.
+
+💬 Let's Connect
+Feel free to reach out for full-stack development projects or inquiries: abdullahawais1111@gmail.com.
 
 ---
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
 
 ---
 
 # 💻 Tech Stack:
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
@@ -41,7 +48,7 @@
 ---
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-awais&theme=dark&hide_border=false)<br/> 
 ### *Most Used Languages*
 <p align="center">
