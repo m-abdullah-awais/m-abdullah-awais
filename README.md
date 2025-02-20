@@ -46,7 +46,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ---
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-awais&theme=dark&hide_border=false)<br/> 
 ### *Most Used Languages*
 <p align="center">
