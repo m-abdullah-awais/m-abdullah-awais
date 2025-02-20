@@ -1,9 +1,8 @@
 <img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
  
 <p align="center">
-  <a href="https://github.com/Hanzala531">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Hanzala+Tahir" alt="Hanzala Tahir" /></a>
-
+  <a href="https://github.com/m-abdullah-awais">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=M.+Abdullah+Awais" alt="M. Abdullah Awais" /></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -18,8 +17,8 @@
 ---
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanzala531)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-tahir-331624282/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer/)
 
 ---
 
@@ -40,11 +39,11 @@
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hanzala531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HanzalaTahir&theme=dark&hide_border=false)<br/> 
 ### *Most Used Languages*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzala531&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-awais&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
 </p>
 
 ---
