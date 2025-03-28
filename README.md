@@ -26,7 +26,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_abdullah_awais)
-[![Facebook](https://img.shields.io/badge/Facebook-%233B5998.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/m.abdullah.awais.programmer/)
+[![Facebook](https://img.shields.io/badge/Facebook-%233B5998.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/m.abdullah.awais.programmer)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m_abdullah_awais)
 
 ---
