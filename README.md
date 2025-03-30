@@ -51,7 +51,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-awais&theme=dark&hide_border=false)<br/> 
 ### *Most Used Languages*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-awais&theme=dark&hide_border=false&layout=compact&langs_count=6&count_private=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-awais&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
 </p>
 
 ---
