@@ -22,6 +22,13 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 ---
 
+## 💼 Service Profiles
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-%2327A27D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/your_username)
+[![Upwork](https://img.shields.io/badge/Upwork-%2300B489.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your_username)
+
+---
+
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
