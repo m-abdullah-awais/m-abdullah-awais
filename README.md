@@ -40,23 +40,31 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 # 💻 Tech Stack
 
-### Front-end Technologies
-![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+### Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![PHP](https://skillicons.dev/icons?i=php&theme=dark)
+![JAVA](https://skillicons.dev/icons?i=java&theme=dark)
+![CSHARP](https://skillicons.dev/icons?i=cs&theme=dark)
+
+### Frameworks
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+
+### UI Libraries
 ![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)
-![Shadcn](https://skillicons.dev/icons?i=vite&theme=dark)
-![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
+![Shadcn](https://skillicons.dev/icons?i=shadcn&theme=dark)
 
-### Back-end Technologies
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
-![PHP](https://skillicons.dev/icons?i=php&theme=dark)
+### Markup and Style
+![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+
+### State Management
+![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
 
 ### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
