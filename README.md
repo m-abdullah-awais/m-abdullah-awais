@@ -22,19 +22,18 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 ---
 
-## 💼 Service Profiles
+## 💼 Service Accounts
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_abdullah_tech)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b48456a3c0c4bd1b)
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_abdullah_tech)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b48456a3c0c4bd1b)
+## 🏢 Professional Accounts
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
 
----
-
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_abdullah_awais)
-[![Facebook](https://img.shields.io/badge/Facebook-%233B5998.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/m.abdullah.awais.programmer)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m_abdullah_awais)
+## 🌐 Social Accounts
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m_abdullah_awais)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/m.abdullah.awais.programmer)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@m_abdullah_awais)
 
 ---
 
