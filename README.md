@@ -48,15 +48,16 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 ### Frameworks
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
 ![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Vue](https://skillicons.dev/icons?i=vue&theme=dark)
 
 ### UI Libraries
 ![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)
-![Shadcn](https://skillicons.dev/icons?i=shadcn&theme=dark)
 
 ### Markup and Style
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
@@ -76,6 +77,10 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ### Version Control
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+
+### Others
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
 
 ---
  
