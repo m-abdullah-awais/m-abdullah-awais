@@ -39,12 +39,19 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 # 💻 Tech Stack
 
+<table>
+<tr>
+<td>
+
 #### Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
 ![PHP](https://skillicons.dev/icons?i=php&theme=dark)
 ![JAVA](https://skillicons.dev/icons?i=java&theme=dark)
 ![CSHARP](https://skillicons.dev/icons?i=cs&theme=dark)
+
+</td>
+<td>
 
 #### Frameworks
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
@@ -53,30 +60,63 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Vue](https://skillicons.dev/icons?i=vue&theme=dark)
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 #### UI Libraries
 ![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)
 
+</td>
+<td>
+
 #### Markup and Style
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
 
-#### State Management
-![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
+</td>
+</tr>
 
+<tr>
+<td>
+ 
 #### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+
+</td>
+<td>
+
+#### State Management
+![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### Version Control
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+
+</td>
+<td>
 
 #### API Development
 ![API Development](https://skillicons.dev/icons?i=postman&theme=dark)
 ![Ajax](https://skillicons.dev/icons?i=ajax&theme=dark)
 
-#### Version Control
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 #### Others
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
@@ -87,6 +127,11 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ![MD](https://skillicons.dev/icons?i=md&theme=dark)
 ![NPM](https://skillicons.dev/icons?i=npm&theme=dark)
 ![Yarn](https://skillicons.dev/icons?i=yarn&theme=dark)
+
+</td>
+</tr>
+
+</table>
 
 ---
  
