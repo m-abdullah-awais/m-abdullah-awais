@@ -81,6 +81,12 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ### Others
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
+![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)
+![Codepen](https://skillicons.dev/icons?i=codepen&theme=dark)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
+![MD](https://skillicons.dev/icons?i=md&theme=dark)
+![NPM](https://skillicons.dev/icons?i=npm&theme=dark)
+![Yarn](https://skillicons.dev/icons?i=yarn&theme=dark)
 
 ---
  
