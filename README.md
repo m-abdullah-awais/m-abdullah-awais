@@ -78,6 +78,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 #### Markup and Style
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+![SCSS](https://skillicons.dev/icons?i=scss&theme=dark)
 
 </td>
 </tr>
