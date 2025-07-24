@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
+
 <img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
  
 <p align="center">
@@ -150,3 +152,11 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 ### ✍ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=m-abdullah-awais&color=67cb57" alt="Profile views" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
