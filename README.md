@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdullah-awais&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/m-abdullah-awais/)
+
 # 💫 About Me:
 🔭 Full-Stack Developer
 I specialize in developing dynamic and responsive web applications with a strong emphasis on user experience, performance optimization, and captivating animations. My approach is centered on delivering clean, efficient code while ensuring high-quality, scalable applications.
