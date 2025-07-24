@@ -9,7 +9,7 @@
  
 </p>
 
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdullah-awais&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/m-abdullah-awais/)
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdullah-awais&bg_color=0d111700&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/m-abdullah-awais/)
 
 # 💫 About Me:
 🔭 Full-Stack Developer
