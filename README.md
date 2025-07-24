@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
-
 <img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
  
 <p align="center">
   <a href="https://github.com/m-abdullah-awais">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=535&lines=Muhammad+Abdullah+Awais" alt="Muhammad Abdullah Awais" /></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=535&lines=Muhammad+Abdullah+Awais" alt="Muhammad Abdullah Awais" />
+  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Full+Stack+Developer;I'm+a+Computer+Science+Student;I’m+passionate+about+Programming+and+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
+ 
 </p>
 
 [![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdullah-awais&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/m-abdullah-awais/)
