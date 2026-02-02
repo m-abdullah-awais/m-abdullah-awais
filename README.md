@@ -45,6 +45,8 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 # 💻 Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -140,20 +142,29 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 </table>
 
+</div>
+
 ---
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-awais&theme=dark&hide_border=false)<br/> 
-### *Most Used Languages*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-awais&theme=dark&hide_border=false&layout=compact&langs_count=9" alt="Most Used Languages">
-</p>
+## :chart_with_upwards_trend: GitHub Stats
+
+<div align="center">
+  <img src="https://github-stats-bice-xi.vercel.app/api?username=m-abdullah-awais&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4E96FF&text_color=ffffff&icon_color=4E96FF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=m-abdullah-awais&layout=compact&hide_border=true&bg_color=0d1117&title_color=4E96FF&text_color=ffffff" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=m-abdullah-awais&hide_border=true&background=0d1117&stroke=0d1117&ring=4E96FF&fire=4E96FF&currStreakLabel=4E96FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=4E96FF&dates=9f9f9f" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ### ✍ Dev Quote
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
