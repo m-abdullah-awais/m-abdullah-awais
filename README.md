@@ -67,6 +67,8 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Vue](https://skillicons.dev/icons?i=vue&theme=dark)
+![Nest](https://skillicons.dev/icons?i=nest&theme=dark)
+![Angular](https://skillicons.dev/icons?i=angular&theme=dark)
 
 </td>
 </tr>
@@ -79,6 +81,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)
+![Vuetify](https://skillicons.dev/icons?i=vuetify&theme=dark)
 
 </td>
 <td>
@@ -97,6 +100,10 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 #### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
+![Appwrite](https://skillicons.dev/icons?i=appwrite&theme=dark)
 
 </td>
 <td>
@@ -129,6 +136,7 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 
 #### Others
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
 ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
 ![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)
 ![Codepen](https://skillicons.dev/icons?i=codepen&theme=dark)
