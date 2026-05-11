@@ -153,6 +153,11 @@ Feel free to reach out for full-stack development projects or inquiries: abdulla
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m-abdullah-awais&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
  
 ## :chart_with_upwards_trend: GitHub Stats
 
