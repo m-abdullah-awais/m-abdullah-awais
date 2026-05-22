@@ -1,8 +1,6 @@
-<!-- ====================== HERO BANNER ====================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0A66C2,100:4E96FF&height=220&section=header&text=Muhammad%20Abdullah%20Awais&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Nest.js&descSize=17&descAlignY=58" alt="Muhammad Abdullah Awais" />
-</div>
-
+<p align="center">
+  <em>Full-Stack Engineer &nbsp;•&nbsp; MERN &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Nest.js</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/m-abdullah-awais"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
