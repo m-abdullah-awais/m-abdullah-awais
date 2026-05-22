@@ -1,6 +1,6 @@
 <!-- ====================== HERO BANNER ====================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0A66C2,100:4E96FF&height=220&section=header&text=Muhammad%20Abdullah%20Awais&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%94%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Nest.js&descSize=17&descAlignY=58" alt="Muhammad Abdullah Awais" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0A66C2,100:4E96FF&height=220&section=header&text=Muhammad%20Abdullah%20Awais&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Nest.js&descSize=17&descAlignY=58" alt="Muhammad Abdullah Awais" />
 </div>
 
 
@@ -42,57 +42,89 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 
 # 💻 Tech Stack
 
-#### 🖥️ Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,cs&theme=dark" alt="Languages" height="48" />
-</p>
+<table align="center" border="1" cellpadding="14" cellspacing="0">
+<tr>
+<td valign="top" width="50%" align="center">
 
-#### ⚛️ Frontend Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,jquery&theme=dark" alt="Frontend" height="48" />
-</p>
+**🖥️ Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,java,cs&theme=dark" alt="Languages" height="40" />
 
-#### 🛠️ Backend Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" height="48" />
-</p>
+</td>
+<td valign="top" width="50%" align="center">
 
-#### 🎨 UI Libraries & Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,vuetify,html,css,sass&theme=dark" alt="UI Libraries" height="48" />
-</p>
+**⚛️ Frontend Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,jquery&theme=dark" alt="Frontend" height="40" />
 
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,appwrite&theme=dark" alt="Databases" height="48" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
 
-#### 🔄 State Management
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,pinia&theme=dark" alt="State Management" height="48" />
-</p>
+**🛠️ Backend Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" height="40" />
 
-#### 🔌 API Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" height="48" />
-</p>
+</td>
+<td valign="top" width="50%" align="center">
 
-#### 🚀 DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify&theme=dark" alt="DevOps" height="48" />
-</p>
+**🎨 UI Libraries & Styling**
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,vuetify,html,css,sass&theme=dark" alt="UI" height="40" />
 
-#### 🌿 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="48" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
 
-#### 🧰 Tools & Editors
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,yarn&theme=dark" alt="Tools" height="48" />
-</p>
+**🗄️ Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,appwrite&theme=dark" alt="Databases" height="40" />
 
-<hr>
+</td>
+<td valign="top" width="50%" align="center">
+
+**🔄 State Management**
+<br/>
+<img src="https://skillicons.dev/icons?i=redux,pinia&theme=dark" alt="State" height="40" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+**🔌 API Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="API" height="40" />
+
+</td>
+<td valign="top" width="50%" align="center">
+
+**🚀 DevOps & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify&theme=dark" alt="DevOps" height="40" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+**🌿 Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="40" />
+
+</td>
+<td valign="top" width="50%" align="center">
+
+**🧰 Tools & Editors**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,yarn&theme=dark" alt="Tools" height="40" />
+
+</td>
+</tr>
+</table>
+
 <br>
 
 <div align="center">
