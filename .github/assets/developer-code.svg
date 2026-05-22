@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <!-- Terminal window background -->
+  <rect width="720" height="240" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="720" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="720" height="10" fill="#161b22"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="17" r="6" fill="#27c93f"/>
+
+  <!-- File name -->
+  <text x="360" y="22" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#7d8590" text-anchor="middle">~/profile/developer.ts</text>
+
+  <!-- Code body -->
+  <g font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14">
+
+    <!-- Line numbers -->
+    <g fill="#484f58" text-anchor="end">
+      <text x="38" y="68">1</text>
+      <text x="38" y="92">2</text>
+      <text x="38" y="116">3</text>
+      <text x="38" y="140">4</text>
+      <text x="38" y="164">5</text>
+      <text x="38" y="188">6</text>
+      <text x="38" y="212">7</text>
+    </g>
+
+    <!-- Line 1: const developer = { -->
+    <text y="68">
+      <tspan x="56" fill="#ff7b72">const</tspan>
+      <tspan fill="#79c0ff"> developer</tspan>
+      <tspan fill="#ff7b72"> = </tspan>
+      <tspan fill="#c9d1d9">{</tspan>
+    </text>
+
+    <!-- Line 2: name -->
+    <text y="92">
+      <tspan x="76" fill="#7ee787">name</tspan>
+      <tspan fill="#c9d1d9">:       </tspan>
+      <tspan fill="#a5d6ff">'Muhammad Abdullah Awais'</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
+
+    <!-- Line 3: role -->
+    <text y="116">
+      <tspan x="76" fill="#7ee787">role</tspan>
+      <tspan fill="#c9d1d9">:       </tspan>
+      <tspan fill="#a5d6ff">'Full-Stack Engineer'</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
+
+    <!-- Line 4: expertise -->
+    <text y="140">
+      <tspan x="76" fill="#7ee787">expertise</tspan>
+      <tspan fill="#c9d1d9">:  [</tspan>
+      <tspan fill="#a5d6ff">'MERN'</tspan>
+      <tspan fill="#c9d1d9">, </tspan>
+      <tspan fill="#a5d6ff">'Next.js'</tspan>
+      <tspan fill="#c9d1d9">, </tspan>
+      <tspan fill="#a5d6ff">'Nest.js'</tspan>
+      <tspan fill="#c9d1d9">],</tspan>
+    </text>
+
+    <!-- Line 5: focus -->
+    <text y="164">
+      <tspan x="76" fill="#7ee787">focus</tspan>
+      <tspan fill="#c9d1d9">:      </tspan>
+      <tspan fill="#a5d6ff">'Scalable SaaS &amp; production-ready apps'</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
+
+    <!-- Line 6: status -->
+    <text y="188">
+      <tspan x="76" fill="#7ee787">status</tspan>
+      <tspan fill="#c9d1d9">:     </tspan>
+      <tspan fill="#a5d6ff">'Open to remote roles &amp; freelance'</tspan>
+    </text>
+
+    <!-- Line 7: }; -->
+    <text y="212">
+      <tspan x="56" fill="#c9d1d9">};</tspan>
+    </text>
+
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="80" y="218" width="8" height="2" fill="#39d353">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

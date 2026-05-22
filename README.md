@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Full-Stack Engineer &nbsp;•&nbsp; MERN &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Nest.js</em>
+  <img src=".github/assets/developer-code.svg" alt="developer.ts" width="720" />
 </p>
 
 <p align="center">
