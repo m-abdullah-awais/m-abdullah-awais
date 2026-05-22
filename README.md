@@ -1,188 +1,100 @@
-<img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
- 
+<!-- ====================== HERO BANNER ====================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0A66C2,100:4E96FF&height=220&section=header&text=Muhammad%20Abdullah%20Awais&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%94%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Nest.js&descSize=17&descAlignY=58" alt="Muhammad Abdullah Awais" />
+</div>
+
+
 <p align="center">
-  <a href="https://github.com/m-abdullah-awais">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=535&lines=Muhammad+Abdullah+Awais" alt="Muhammad Abdullah Awais" />
-  </a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=I'm+a+Full+Stack+Developer;I'm+a+Computer+Science+Student;I’m+passionate+about+Programming+and+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
- 
+  <a href="https://github.com/m-abdullah-awais"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/m-abdullah-awais-programmer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdullahawais1111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.fiverr.com/m_abdullah_tech"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="https://www.upwork.com/freelancers/~01b48456a3c0c4bd1b"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://leetcode.com/u/m-abdullah-awais"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/m_abdullah_awais"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.instagram.com/m_abdullah_awais"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://web.facebook.com/m.abdullah.awais.programmer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@m_abdullah_awais"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
-
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-abdullah-awais&bg_color=0d111700&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/m-abdullah-awais/)
-
-# 💫 About Me:
-🔭 Full-Stack Developer
-I specialize in developing dynamic and responsive web applications with a strong emphasis on user experience, performance optimization, and captivating animations. My approach is centered on delivering clean, efficient code while ensuring high-quality, scalable applications.
-
-👯 Collaboration
-I am open to collaborating on both front-end and back-end projects, leveraging my expertise in modern technologies to create seamless, innovative solutions that align with business goals.
-
-🌱 Continuous Growth
-Constantly refining my skills, I specialize in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations to create engaging, interactive experiences.
-
-💬 Let's Connect
-Feel free to reach out for full-stack development projects or inquiries: abdullahawais1111@gmail.com.
 
 ---
 
-## 💼 Service Accounts
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_abdullah_tech)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b48456a3c0c4bd1b)
+# 💫 About Me
 
-## 🏢 Professional Accounts
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/m-abdullah-awais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdullah-awais-programmer)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/m-abdullah-awais)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/m_abdullah_awais)  
+Full-Stack Engineer building scalable, production-ready web applications.
 
-## 🌐 Social Accounts
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m_abdullah_awais)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/m.abdullah.awais.programmer)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@m_abdullah_awais)
+I work with the **MERN stack, Next.js, and Nest.js** to ship SaaS platforms, AI-powered tools, and real-time apps with clean architecture and solid performance.
+
+**🔭 What I do**
+- End-to-end product development: frontend, backend, database, deployment
+- Scalable APIs and modular backends with Node.js / Nest.js
+- Responsive, SEO-friendly UIs with React, Next.js, and Tailwind
+- Stripe, auth, WebSockets, and third-party integrations
+- Deployment on Vercel, Render, and Docker-based cloud setups
+
+**🧠 How I work**
+Security-first, simple until it needs to scale, and focused on shipping over polishing.
+
+**🤝 Open to**
+Remote full-stack roles, freelance projects, and SaaS collaborations.
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">
+#### 🖥️ Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,cs&theme=dark" alt="Languages" height="48" />
+</p>
 
-<table>
-<tr>
-<td>
+#### ⚛️ Frontend Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,jquery&theme=dark" alt="Frontend" height="48" />
+</p>
 
-#### Programming Languages
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
-![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-![JAVA](https://skillicons.dev/icons?i=java&theme=dark)
-![CSHARP](https://skillicons.dev/icons?i=cs&theme=dark)
+#### 🛠️ Backend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" height="48" />
+</p>
 
-</td>
-<td>
+#### 🎨 UI Libraries & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,vuetify,html,css,sass&theme=dark" alt="UI Libraries" height="48" />
+</p>
 
-#### Frameworks
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
-![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Vue](https://skillicons.dev/icons?i=vue&theme=dark)
-![Nest](https://skillicons.dev/icons?i=nest&theme=dark)
-![Angular](https://skillicons.dev/icons?i=angular&theme=dark)
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,appwrite&theme=dark" alt="Databases" height="48" />
+</p>
 
-</td>
-</tr>
+#### 🔄 State Management
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,pinia&theme=dark" alt="State Management" height="48" />
+</p>
 
-<tr>
-<td>
+#### 🔌 API Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" height="48" />
+</p>
 
-#### UI Libraries
-![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)
-![Vuetify](https://skillicons.dev/icons?i=vuetify&theme=dark)
+#### 🚀 DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify&theme=dark" alt="DevOps" height="48" />
+</p>
 
-</td>
-<td>
+#### 🌿 Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="48" />
+</p>
 
-#### Markup and Style
-![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
-![SCSS](https://skillicons.dev/icons?i=scss&theme=dark)
+#### 🧰 Tools & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,yarn&theme=dark" alt="Tools" height="48" />
+</p>
 
-</td>
-</tr>
-
-<tr>
-<td>
- 
-#### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
-![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
-![Appwrite](https://skillicons.dev/icons?i=appwrite&theme=dark)
-
-</td>
-<td>
-
-#### State Management
-![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### Version Control
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-
-</td>
-<td>
-
-#### API Development
-![API Development](https://skillicons.dev/icons?i=postman&theme=dark)
-![Ajax](https://skillicons.dev/icons?i=ajax&theme=dark)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-#### Others
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
-![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
-![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)
-![Codepen](https://skillicons.dev/icons?i=codepen&theme=dark)
-![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
-![MD](https://skillicons.dev/icons?i=md&theme=dark)
-![NPM](https://skillicons.dev/icons?i=npm&theme=dark)
-![Yarn](https://skillicons.dev/icons?i=yarn&theme=dark)
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-abdullah-awais&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
- 
-## :chart_with_upwards_trend: GitHub Stats
+<hr>
+<br>
 
 <div align="center">
-  <img src="https://github-stats-bice-xi.vercel.app/api?username=m-abdullah-awais&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4E96FF&text_color=ffffff&icon_color=4E96FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=m-abdullah-awais&layout=compact&hide_border=true&bg_color=0d1117&title_color=4E96FF&text_color=ffffff" alt="Top Languages" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=m-abdullah-awais&style=for-the-badge&color=4E96FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=m-abdullah-awais&hide_border=true&background=0d1117&stroke=0d1117&ring=4E96FF&fire=4E96FF&currStreakLabel=4E96FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=4E96FF&dates=9f9f9f" alt="GitHub Streak"/>
-</div>
-
----
-
-### ✍ Dev Quote
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=m-abdullah-awais&color=67cb57" alt="Profile views" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
