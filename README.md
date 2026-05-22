@@ -92,12 +92,13 @@ Security-first, simple until it needs to scale, and focused on shipping over pol
 <tr>
 <td valign="top" width="50%" align="center">
 
-**API Tools**
+**Version Control**
 <br/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="API" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
+
 
 **DevOps & Deployment**
 <br/>
@@ -106,14 +107,7 @@ Security-first, simple until it needs to scale, and focused on shipping over pol
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%" align="center">
-
-**Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="40" />
-
-</td>
-<td valign="top" width="50%" align="center">
+<td valign="top" colspan="2" align="center">
 
 **Tools & Editors**
 <br/>
