@@ -35,8 +35,6 @@ I work with the **MERN stack, Next.js, and Nest.js** to ship SaaS platforms, AI-
 **🧠 How I work**
 Security-first, simple until it needs to scale, and focused on shipping over polishing.
 
-**🤝 Open to**
-Remote full-stack roles, freelance projects, and SaaS collaborations.
 
 ---
 
@@ -46,14 +44,14 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 <tr>
 <td valign="top" width="50%" align="center">
 
-**🖥️ Programming Languages**
+**Programming Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php,java,cs&theme=dark" alt="Languages" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
 
-**⚛️ Frontend Frameworks & Libraries**
+**Frontend Frameworks & Libraries**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,jquery&theme=dark" alt="Frontend" height="40" />
 
@@ -62,14 +60,14 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 <tr>
 <td valign="top" width="50%" align="center">
 
-**🛠️ Backend Frameworks**
+**Backend Frameworks**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
 
-**🎨 UI Libraries & Styling**
+**UI Libraries & Styling**
 <br/>
 <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,vuetify,html,css,sass&theme=dark" alt="UI" height="40" />
 
@@ -78,14 +76,14 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 <tr>
 <td valign="top" width="50%" align="center">
 
-**🗄️ Databases**
+**Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,appwrite&theme=dark" alt="Databases" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
 
-**🔄 State Management**
+**State Management**
 <br/>
 <img src="https://skillicons.dev/icons?i=redux,pinia&theme=dark" alt="State" height="40" />
 
@@ -94,14 +92,14 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 <tr>
 <td valign="top" width="50%" align="center">
 
-**🔌 API Tools**
+**API Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="API" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
 
-**🚀 DevOps & Deployment**
+**DevOps & Deployment**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify&theme=dark" alt="DevOps" height="40" />
 
@@ -110,14 +108,14 @@ Remote full-stack roles, freelance projects, and SaaS collaborations.
 <tr>
 <td valign="top" width="50%" align="center">
 
-**🌿 Version Control**
+**Version Control**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
 
-**🧰 Tools & Editors**
+**Tools & Editors**
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,yarn&theme=dark" alt="Tools" height="40" />
 
