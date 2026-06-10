@@ -109,7 +109,7 @@ Security-first, simple until it needs to scale, and focused on shipping over pol
 
 **Tools & Editors**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,pnpm,yarn&theme=dark" alt="Tools" height="40" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen,bash,md,npm,pnpm,yarn,prisma,rabbitmq,redis,sequelize&theme=dark" alt="Tools" height="40" />
 
 </td>
 </tr>
