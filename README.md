@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.abdullahawais.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/m-abdullah-awais"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/m-abdullah-awais-programmer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abdullahawais1111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.google.com/preferences/source?q=abdullahawais.com"><img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google" /></a>
   <a href="https://www.fiverr.com/m_abdullah_tech"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="https://www.upwork.com/freelancers/~01b48456a3c0c4bd1b"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork" /></a>
   <a href="https://leetcode.com/u/m-abdullah-awais"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -44,7 +46,7 @@ Security-first, simple until it needs to scale, and focused on shipping over pol
 
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,php,java,cs&theme=dark" alt="Languages" height="40" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs&theme=dark" alt="Languages" height="40" />
 
 </td>
 <td valign="top" width="50%" align="center">
