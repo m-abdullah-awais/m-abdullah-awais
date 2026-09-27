@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/m_abdullah_awais"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://web.facebook.com/m.abdullah.awais.programmer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.youtube.com/@m_abdullah_awais"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.reddit.com/user/abdullah"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.reddit.com/user/m-abdullah-awais"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
 ---
